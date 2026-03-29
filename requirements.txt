@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+streamlit-option-menu
+supabase
+dotenv
+fpdf2
+request
+sklearn
