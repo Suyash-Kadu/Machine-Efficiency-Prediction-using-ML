@@ -121,7 +121,6 @@ with tab2:
 
         if st.button("submit"):
                 input_data = pd.DataFrame({
-                        "machine_type": [mt_val],
                         "temperature": [temp],
                         "vibration_level": [vibration],
                         "power_consumption": [power_con],
