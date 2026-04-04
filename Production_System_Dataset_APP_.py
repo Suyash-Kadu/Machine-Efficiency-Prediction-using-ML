@@ -37,7 +37,7 @@ with tab1:
                 " by inconsistent scales and non-linear distributions, making it nearly impossible for human operators to manually extract" \
                 " actionable insights in real time.")
         with col5:
-               st.image("Gemini_Generated_Image_7ps1ad7ps1ad7ps1.PNG")
+               st.image("Gemini_Generated_Image_7ps1ad7ps1ad7ps1.png")
 
         st.divider()
 
